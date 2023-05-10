@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch aaa",
+            "request": "launch",
+            "mainClass": "Program.aaa",
+            "projectName": "Java_4f8fbeb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopaDoBrasil",
+            "request": "launch",
+            "mainClass": "Program.CopaDoBrasil",
+            "projectName": "Java_4f8fbeb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrizExer",
+            "request": "launch",
+            "mainClass": "Program.MatrizExer",
+            "projectName": "Java_4f8fbeb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderDef",
+            "request": "launch",
+            "mainClass": "Program.OrderDef",
+            "projectName": "Java_4f8fbeb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch matriz",
+            "request": "launch",
+            "mainClass": "matriz",
+            "projectName": "Java_4f8fbeb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch array2Def",
+            "request": "launch",
+            "mainClass": "array2Def",
+            "projectName": "Java_4f8fbeb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Java_4f8fbeb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch While1",
+            "request": "launch",
+            "mainClass": "While1",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicios",
+            "request": "launch",
+            "mainClass": "Exercicios",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fixacao",
+            "request": "launch",
+            "mainClass": "Fixacao",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mat",
+            "request": "launch",
+            "mainClass": "Mat",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerSc",
+            "request": "launch",
+            "mainClass": "ScannerSc",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch ScannerSc2",
+            "request": "launch",
+            "mainClass": "ScannerSc2",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sintaxe_opcional",
+            "request": "launch",
+            "mainClass": "Sintaxe_opcional",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch condicional",
+            "request": "launch",
+            "mainClass": "condicional",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch ternaria",
+            "request": "launch",
+            "mainClass": "ternaria",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "Java_2d561392"
+        },
+        {
+            "type": "java",
+            "name": "Launch ui",
+            "request": "launch",
+            "mainClass": "ui",
+            "projectName": "Java_2d561392"
+        }
+    ]
+}

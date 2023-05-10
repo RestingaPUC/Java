@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Udemy",
+            "database": "coursejdbc",
+            "username": "sqltest",
+            "password": "123"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\carne\\OneDrive\\Área de Trabalho\\mysql-connector-java-8.0.30\\mysql-connector-java-8.0.30.jar"
+    ]
+}
